@@ -3,7 +3,7 @@
 This Project is done in the requirement for the course, "Fundamentals of Information Retreival". Given a news article with news headline
 and a news body, the model built in the project aims at detecting whether the news article is congruent or Incongruent.
 The project was to understand and implement a research paper titled "POSHAN". The model in the paper classifies a news article as congruent or incongruent 
-by giving special attention to cardinal values.
+by giving special attention to cardinal values. This NLP based Project uses advanced techniques in NLP like LSTM, Attention, BERT, etc.
 ------------------------
 Library/Packages used:-
 -----------------------   
