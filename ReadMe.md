@@ -1,4 +1,3 @@
-=======================================================================================================
                            Fundamentals of Information Retrieval: Assignment-3 POSHAN
 =======================================================================================================
 This Project is done in the requirement for the course, "Fundamentals of Information Retreival". Given a news article with news headline
